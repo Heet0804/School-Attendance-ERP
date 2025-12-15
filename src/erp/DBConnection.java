@@ -1,3 +1,5 @@
+package erp;
+
 import java.sql.*;
 
 public class DBConnection {
@@ -9,7 +11,7 @@ public class DBConnection {
             
             // Connect to your database
             conn = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/registration", // replace 'mydb' with your database name
+                "jdbc:mysql://localhost:3306/attendance_erp", // replace 'mydb' with your database name
                 "root", // your username
                 ""      // your password (leave empty if none)
             );
