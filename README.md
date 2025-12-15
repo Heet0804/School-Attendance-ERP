@@ -105,4 +105,4 @@ A complete **Attendance and Academic Management System** for students and facult
 
 ## Author
 **Heet Lakhani**  
-GitHub: [https://github.com/YourUsername](https://github.com/YourUsername)
+GitHub: [https://github.com/YourUsername](https://github.com/Heet0804)
